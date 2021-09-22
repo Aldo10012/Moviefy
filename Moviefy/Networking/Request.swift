@@ -24,7 +24,7 @@ struct Request {
     static let headers = [
         "Accept": "application/json",
         "Content-Type": "application/json",
-        "Authorization": "Bearer YOUR_API_KEY"
+        "Authorization": "Bearer 6fe5ce9d89e16f048f5ed32298492354"
     ]
     
     static func configureRequest(from route: Route,
